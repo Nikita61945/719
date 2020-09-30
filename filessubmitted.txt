@@ -1,0 +1,2 @@
+Report and contributions
+GA,PSO,PSO_GA and neural network code and diabetes dataset and readme
