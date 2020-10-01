@@ -8,3 +8,5 @@ sklearn version 0.0
 scikit-learn version 0.23.2
 matplotlib version 3.3.1
 numpy version 1.18.5
+
+diabetes prediction using deep neural networks with metaheuristic algorithms
